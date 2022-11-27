@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@emailjs/browser": "^3.9.1",
+    "react-router": "^6.4.3",
+    "swiper": "^6.8.4"
+  }
+}
